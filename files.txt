@@ -1,0 +1,11 @@
+pract1 - iris
+pract 2- gender   math score   reading score    writing score    placement score     club join year    placement offer count    region
+        =RANDBETWEEN(bottom,top)
+pract 3- age_group                                                  income
+         =CHOOSE(RANDBETWEEN(1,3),"18-35","35-50","50-70           =RANDBETWEEN(5,750)
+pract 4-boston housing
+pract 5-social-network-ads
+pract 6-iris
+pract 8-Titanic
+pract 9-titanic-train.csv
+pract 10-https://archive.ics.uci.edu/ml/datasets/Iris
